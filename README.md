@@ -1,9 +1,15 @@
 
 ## Usage
 
-1. Download the svg folder, all svg images are included.
+Flat Arduino SVG Icon Kit is a collection of carefully crafted SVG files for makers. 
+You can use these SVG files in many of your websites/projects/works.
 
-2. Then use it as you need!
+For example:
+In your website:
+
+1. Download the svg folder, and upload to your server.
+
+2. Then link it in your website same as other images!
 
 ```
 <img src="images/svg/arduino_uno.svg" alt="arduino uno">
